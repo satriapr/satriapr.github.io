@@ -1,0 +1,641 @@
+year,birth_country,Chemistry,Economics,Literature,Medicine,Peace,Physics
+1901,Netherlands,1,,,,,
+1901,France,,,1,,1,
+1901,Prussia (Poland),,,,1,,
+1901,Switzerland,,,,,1,
+1901,Prussia (Germany),,,,,,1
+1902,Prussia (Germany),1,,,,,
+1902,Schleswig (Germany),,,1,,,
+1902,India,,,,1,,
+1902,Switzerland,,,,,2,
+1902,Netherlands,,,,,,2
+1903,Sweden,1,,,,,
+1903,Norway,,,1,,,
+1903,Faroe Islands (Denmark),,,,1,,
+1903,United Kingdom,,,,,1,
+1903,France,,,,,,2
+1903,Russian Empire (Poland),,,,,,1
+1904,Scotland,1,,,,,
+1904,France,,,1,,,
+1904,Spain,,,1,,,
+1904,Russia,,,,1,,
+1904,,,,,,1,
+1904,United Kingdom,,,,,,1
+1905,Prussia (Germany),1,,,,,
+1905,Poland,,,1,,,
+1905,Germany,,,,1,,
+1905,Austrian Empire (Czech Republic),,,,,1,
+1905,Hungary (Slovakia),,,,,,1
+1906,France,1,,,,,
+1906,Tuscany (Italy),,,1,,,
+1906,Italy,,,,1,,
+1906,Spain,,,,1,,
+1906,United States of America,,,,,1,
+1906,United Kingdom,,,,,,1
+1907,Bavaria (Germany),1,,,,,
+1907,British India (India),,,1,,,
+1907,France,,,,1,1,
+1907,Austrian Empire (Italy),,,,,1,
+1907,Prussia (Poland),,,,,,1
+1908,New Zealand,1,,,,,
+1908,East Friesland (Germany),,,1,,,
+1908,Russian Empire (Ukraine),,,,1,,
+1908,Prussia (Poland),,,,2,,
+1908,Sweden,,,,,1,
+1908,Denmark,,,,,1,
+1908,Luxembourg,,,,,,1
+1909,Russian Empire (Latvia),1,,,,,
+1909,Sweden,,,1,,,
+1909,Switzerland,,,,1,,
+1909,Belgium,,,,,1,
+1909,France,,,,,1,
+1909,Italy,,,,,,1
+1909,Hesse-Kassel (Germany),,,,,,1
+1910,Germany (Russia),1,,,,,
+1910,Prussia (Germany),,,1,,,
+1910,Mecklenburg (Germany),,,,1,,
+1910,,,,,,1,
+1910,Netherlands,,,,,,1
+1911,Russian Empire (Poland),1,,,,,
+1911,Belgium,,,1,,,
+1911,Sweden,,,,1,,
+1911,Netherlands,,,,,1,
+1911,Austria,,,,,1,
+1911,Prussia (Russia),,,,,,1
+1912,France,2,,,1,,
+1912,Prussia (Germany),,,1,,,
+1912,United States of America,,,,,1,
+1912,Sweden,,,,,,1
+1913,France,1,,,1,,
+1913,India,,,1,,,
+1913,Belgium,,,,,1,
+1913,Netherlands,,,,,,1
+1914,United States of America,1,,,,,
+1914,Austria,,,,1,,
+1914,Germany,,,,,,1
+1915,Germany,1,,,,,
+1915,France,,,1,,,
+1915,United Kingdom,,,,,,1
+1915,Australia,,,,,,1
+1916,Sweden,,,1,,,
+1917,Denmark,,,2,,,
+1917,,,,,,1,
+1917,United Kingdom,,,,,,1
+1918,Prussia (Poland),1,,,,,
+1918,Schleswig (Germany),,,,,,1
+1919,Switzerland,,,1,,,
+1919,Belgium,,,,1,,
+1919,United States of America,,,,,1,
+1919,Germany,,,,,,1
+1920,Prussia (Germany),1,,,,,
+1920,Norway,,,1,,,
+1920,Denmark,,,,1,,
+1920,France,,,,,1,
+1920,Switzerland,,,,,,1
+1921,United Kingdom,1,,,,,
+1921,France,,,1,,,
+1921,Sweden,,,,,1,
+1921,Norway,,,,,1,
+1921,Germany,,,,,,1
+1922,United Kingdom,1,,,1,,
+1922,Spain,,,1,,,
+1922,Germany,,,,1,,
+1922,Norway,,,,,1,
+1922,Denmark,,,,,,1
+1923,Austria-Hungary (Slovenia),1,,,,,
+1923,Ireland,,,1,,,
+1923,Canada,,,,1,,
+1923,Scotland,,,,1,,
+1923,United States of America,,,,,,1
+1924,Russian Empire (Poland),,,1,,,
+1924,"Java, Dutch East Indies (Indonesia)",,,,1,,
+1924,Sweden,,,,,,1
+1925,Austrian Empire (Austria),1,,,,,
+1925,Ireland,,,1,,,
+1925,United Kingdom,,,,,1,
+1925,United States of America,,,,,1,
+1925,Germany,,,,,,2
+1926,Sweden,1,,,,,
+1926,Italy,,,1,,,
+1926,Denmark,,,,1,,
+1926,France,,,,,1,1
+1926,Germany,,,,,1,
+1927,Germany,1,,,,1,
+1927,France,,,1,,1,
+1927,Austria,,,,1,,
+1927,United States of America,,,,,,1
+1927,Scotland,,,,,,1
+1928,Germany,1,,,,,
+1928,Denmark,,,1,,,
+1928,France,,,,1,,
+1928,United Kingdom,,,,,,1
+1929,United Kingdom,1,,,1,,
+1929,Germany,1,,1,,,
+1929,Netherlands,,,,1,,
+1929,United States of America,,,,,1,
+1929,France,,,,,,1
+1930,Germany,1,,,,,
+1930,United States of America,,,1,,,
+1930,Austrian Empire (Austria),,,,1,,
+1930,Sweden,,,,,1,
+1930,India,,,,,,1
+1931,Germany,2,,,1,,
+1931,Germany (Poland),2,,,,,
+1931,Sweden,,,1,,,
+1931,United States of America,,,,,2,
+1932,United States of America,1,,,,,
+1932,United Kingdom,,,1,2,,
+1932,Germany,,,,,,1
+1933,Russia,,,1,,,
+1933,United States of America,,,,1,,
+1933,United Kingdom,,,,,1,1
+1933,Austria,,,,,,1
+1934,United States of America,1,,,4,,
+1934,Italy,,,1,,,
+1934,Scotland,,,,,1,
+1935,France,2,,,,,
+1935,W&uuml;rttemberg (Germany),,,,1,,
+1935,Germany,,,,,1,
+1935,United Kingdom,,,,,,1
+1936,Netherlands,2,,,,,
+1936,United States of America,,,1,,,1
+1936,United Kingdom,,,,1,,
+1936,Germany,,,,1,,
+1936,Argentina,,,,,1,
+1936,Austria,,,,,,1
+1937,United Kingdom,1,,,,1,1
+1937,Russia,1,,,,,
+1937,France,,,1,,,
+1937,Austria-Hungary (Hungary),,,,1,,
+1937,United States of America,,,,,,1
+1938,Austria-Hungary (Austria),2,,,,,
+1938,United States of America,,,1,,,
+1938,Belgium,,,,1,,
+1938,,,,,,1,
+1938,Italy,,,,,,1
+1939,Germany,2,,,,,
+1939,Austria-Hungary (Croatia),1,,,,,
+1939,Russian Empire (Finland),,,1,,,
+1939,Germany (Poland),,,,1,,
+1939,United States of America,,,,,,1
+1943,Austria-Hungary (Hungary),1,,,,,
+1943,Denmark,,,,1,,
+1943,United States of America,,,,1,,
+1943,Germany (Poland),,,,,,1
+1944,Germany,1,,,,,
+1944,Denmark,,,1,,,
+1944,United States of America,,,,2,,
+1944,,,,,,1,
+1944,Austria-Hungary (Poland),,,,,,1
+1945,Russian Empire (Finland),1,,,,,
+1945,Chile,,,1,,,
+1945,Scotland,,,,1,,
+1945,Germany,,,,1,,
+1945,Australia,,,,1,,
+1945,United States of America,,,,,1,
+1945,Austria,,,,,,1
+1946,United States of America,3,,,1,2,1
+1946,Germany,,,1,,,
+1947,United Kingdom,1,,,,,1
+1947,France,,,1,,,
+1947,Austria-Hungary (Czech Republic),,,,2,,
+1947,Argentina,,,,1,,
+1947,,,,,,2,
+1948,Sweden,1,,,,,
+1948,United States of America,,,1,,,
+1948,Switzerland,,,,1,,
+1948,United Kingdom,,,,,,1
+1949,Canada,1,,,,,
+1949,United States of America,,,1,,,
+1949,Switzerland,,,,1,,
+1949,Portugal,,,,2,,
+1949,Scotland,,,,,1,
+1949,Japan,,,,,,2
+1950,Germany,1,,,,,
+1950,Prussia (Poland),1,,,,,
+1950,United Kingdom,,,1,,,1
+1950,United States of America,,,,2,1,
+1950,Poland,,,,1,,
+1951,United States of America,2,,,,,
+1951,Sweden,,,1,,,
+1951,South Africa,,,,1,,
+1951,France,,,,,1,
+1951,United Kingdom,,,,,,1
+1951,Ireland,,,,,,1
+1952,United Kingdom,2,,,,,
+1952,France,,,1,,,
+1952,Russian Empire (Ukraine),,,,1,,
+1952,Germany (France),,,,,1,
+1952,Switzerland,,,,,,1
+1952,United States of America,,,,,,1
+1953,Germany,2,,,1,,
+1953,United Kingdom,,,1,,,
+1953,Germany (Russia),,,,2,,
+1953,United States of America,,,,,1,
+1953,Netherlands,,,,,,1
+1954,United States of America,1,,1,4,,
+1954,,,,,,1,
+1954,Germany (Poland),,,,,,1
+1954,Germany,,,,,,2
+1955,United States of America,1,,,,,1
+1955,Iceland,,,1,,,
+1955,Sweden,,,,1,,
+1955,Germany,,,,,,1
+1956,United Kingdom,1,,,,,1
+1956,Russia,1,,,,,
+1956,Spain,,,1,,,
+1956,France,,,,1,,
+1956,Germany,,,,2,,
+1956,United States of America,,,,1,,1
+1956,China,,,,,,1
+1957,Scotland,1,,,,,
+1957,French Algeria (Algeria),,,1,,,
+1957,Switzerland,,,,1,,
+1957,Canada,,,,,1,
+1957,China,,,,,,2
+1958,United Kingdom,1,,,,,
+1958,Russia,,,1,,,5
+1958,United States of America,,,,3,,
+1958,Belgium,,,,,1,
+1959,Austria-Hungary (Czech Republic),1,,,,,
+1959,Italy,,,1,,,1
+1959,Spain,,,,1,,
+1959,United States of America,,,,1,,1
+1959,United Kingdom,,,,,1,
+1960,United States of America,1,,,,,1
+1960,Guadeloupe Island,,,1,,,
+1960,Australia,,,,1,,
+1960,Brazil,,,,1,,
+1960,Southern Rhodesia (Zimbabwe),,,,,1,
+1961,United States of America,1,,,,,1
+1961,Bosnia (Bosnia and Herzegovina),,,1,,,
+1961,Hungary,,,,1,,
+1961,Sweden,,,,,1,
+1961,Germany,,,,,,2
+1962,Austria,1,,,,,
+1962,United Kingdom,1,,,1,,
+1962,United States of America,,,1,1,1,
+1962,New Zealand,,,,1,,
+1962,Russian Empire (Azerbaijan),,,,,,1
+1963,Germany,1,,,,,1
+1963,Italy,1,,,,,
+1963,Ottoman Empire (Turkey),,,1,,,
+1963,Australia,,,,1,,
+1963,United Kingdom,,,,2,,
+1963,,,,,,2,
+1963,Austria-Hungary (Hungary),,,,,,1
+1963,Germany (Poland),,,,,,1
+1964,Egypt,1,,,,,
+1964,France,,,1,,,
+1964,Germany (Poland),,,,1,,
+1964,Germany,,,,1,,
+1964,United States of America,,,,,1,1
+1964,Union of Soviet Socialist Republics (Russia),,,,,,1
+1964,Australia,,,,,,1
+1965,United States of America,1,,,,,2
+1965,Russia,,,1,,,
+1965,France,,,,3,,
+1965,,,,,,1,
+1965,Japan,,,,,,1
+1966,United States of America,1,,,1,,
+1966,Austria-Hungary (Ukraine),,,1,,,
+1966,Germany,,,1,,,
+1966,Canada,,,,1,,
+1966,Germany (France),,,,,,1
+1967,Germany,1,,,,,
+1967,United Kingdom,2,,,,,
+1967,Guatemala,,,1,,,
+1967,Russian Empire (Finland),,,,1,,
+1967,United States of America,,,,2,,
+1967,Germany (France),,,,,,1
+1968,Norway,1,,,,,
+1968,Japan,,,1,,,
+1968,United States of America,,,,2,,1
+1968,India,,,,1,,
+1968,France,,,,,1,
+1969,United Kingdom,1,,,,,
+1969,Norway,1,1,,,,
+1969,Netherlands,,1,,,,
+1969,Ireland,,,1,,,
+1969,Germany,,,,1,,
+1969,United States of America,,,,1,,1
+1969,Italy,,,,1,,
+1969,,,,,,1,
+1970,France,1,,,,,1
+1970,United States of America,,1,,1,1,
+1970,Russia,,,1,,,
+1970,Germany,,,,1,,
+1970,Sweden,,,,1,,1
+1971,Germany,1,,,,1,
+1971,Russian Empire (Belarus),,1,,,,
+1971,Chile,,,1,,,
+1971,United States of America,,,,1,,
+1971,Hungary,,,,,,1
+1972,United States of America,3,1,,1,,3
+1972,United Kingdom,,1,,1,,
+1972,Germany,,,1,,,
+1973,Germany,1,,,,1,
+1973,United Kingdom,1,,1,,,1
+1973,Russia,,1,,,,
+1973,Austria,,,,2,,
+1973,Netherlands,,,,1,,
+1973,Vietnam,,,,,1,
+1973,Japan,,,,,,1
+1973,Norway,,,,,,1
+1974,United States of America,1,,,,,
+1974,Sweden,,1,2,,,
+1974,Austria,,1,,,,
+1974,Belgium,,,,1,,
+1974,United Kingdom,,,,2,,2
+1974,Romania,,,,1,,
+1974,France,,,,,1,
+1974,Japan,,,,,1,
+1975,Australia,1,,,,,
+1975,Austria-Hungary (Bosnia and Herzegovina),1,,,,,
+1975,Russian Empire (Russia),,1,,,,
+1975,Netherlands,,1,,,,
+1975,Italy,,,1,1,,
+1975,United States of America,,,,2,,2
+1975,Russia,,,,,1,
+1975,Denmark,,,,,,1
+1976,United States of America,1,1,,2,,2
+1976,Canada,,,1,,,
+1976,Northern Ireland,,,,,2,
+1977,Russia,2,,,,,
+1977,Sweden,,1,,,,
+1977,United Kingdom,,1,,,,1
+1977,Spain,,,1,,,
+1977,France,,,,1,,
+1977,Poland (Lithuania),,,,1,,
+1977,United States of America,,,,1,,2
+1977,,,,,,1,
+1978,United Kingdom,1,,,,,
+1978,United States of America,,1,,2,,1
+1978,Russian Empire (Poland),,,1,,,
+1978,Switzerland,,,,1,,
+1978,Egypt,,,,,1,
+1978,Russian Empire (Belarus),,,,,1,
+1978,Russian Empire (Russia),,,,,,1
+1978,Germany,,,,,,1
+1979,United Kingdom,1,,,1,,
+1979,Germany,1,,,,,
+1979,United States of America,,1,,,,2
+1979,British West Indies (Saint Lucia),,1,,,,
+1979,Crete (Greece),,,1,,,
+1979,South Africa,,,,1,,
+1979,Ottoman Empire (Republic of Macedonia),,,,,1,
+1979,India (Pakistan),,,,,,2
+1980,United Kingdom,1,,,,,
+1980,United States of America,2,1,,1,,2
+1980,Russian Empire (Lithuania),,,1,,,
+1980,Venezuela,,,,1,,
+1980,France,,,,1,,
+1980,Argentina,,,,,1,
+1981,Japan,1,,,,,
+1981,Poland (Ukraine),1,,,,,
+1981,United States of America,,1,,1,,1
+1981,Bulgaria,,,1,,,
+1981,Canada,,,,1,,
+1981,Sweden,,,,1,,1
+1981,,,,,,1,
+1981,Netherlands,,,,,,1
+1982,Lithuania,1,,,,,
+1982,United States of America,,1,,,,1
+1982,Colombia,,,1,,,
+1982,Sweden,,,,2,1,
+1982,United Kingdom,,,,1,,
+1982,Mexico,,,,,1,
+1983,Canada,1,,,,,
+1983,France,,1,,,,
+1983,United Kingdom,,,1,,,
+1983,United States of America,,,,1,,1
+1983,Poland,,,,,1,
+1983,India (Pakistan),,,,,,1
+1984,United States of America,1,,,,,
+1984,United Kingdom,,1,,1,,
+1984,Austria-Hungary (Czech Republic),,,1,,,
+1984,Germany,,,,1,,
+1984,Argentina,,,,1,,
+1984,South Africa,,,,,1,
+1984,Italy,,,,,,1
+1984,Netherlands,,,,,,1
+1985,United States of America,2,,,2,,
+1985,Italy,,1,,,,
+1985,Madagascar,,,1,,,
+1985,,,,,,1,
+1985,German-occupied Poland (Poland),,,,,,1
+1986,United States of America,1,1,,1,,
+1986,Taiwan,1,,,,,
+1986,Germany,1,,,,,1
+1986,Nigeria,,,1,,,
+1986,Italy,,,,1,,
+1986,Romania,,,,,1,
+1986,West Germany (Germany),,,,,,1
+1986,Switzerland,,,,,,1
+1987,United States of America,1,1,,,,
+1987,France,2,,,,,
+1987,Korea (South Korea),1,,,,,
+1987,Union of Soviet Socialist Republics (Russia),,,1,,,
+1987,Japan,,,,1,,
+1987,Costa Rica,,,,,1,
+1987,West Germany (Germany),,,,,,1
+1987,Switzerland,,,,,,1
+1988,Germany,3,,,,,1
+1988,West Germany (Germany),1,,,,,
+1988,France,,1,,,,
+1988,Egypt,,,1,,,
+1988,Scotland,,,,1,,
+1988,United States of America,,,,2,,2
+1988,,,,,,1,
+1989,Canada,1,,,,,
+1989,United States of America,1,,,2,,1
+1989,Norway,,1,,,,
+1989,Spain,,,1,,,
+1989,Tibet (People's Republic of China),,,,,1,
+1989,Prussia (Germany),,,,,,1
+1989,Germany,,,,,,1
+1990,United States of America,1,3,,2,,2
+1990,Mexico,,,1,,,
+1990,Union of Soviet Socialist Republics (Russia),,,,,1,
+1990,Canada,,,,,,1
+1991,Switzerland,1,,,,,
+1991,United Kingdom,,1,,,,
+1991,South Africa,,,1,,,
+1991,Germany,,,,2,,
+1991,Burma (Myanmar),,,,,1,
+1991,France,,,,,,1
+1992,Canada,1,,,,,
+1992,United States of America,,1,,1,,
+1992,Saint Lucia,,,1,,,
+1992,China,,,,1,,
+1992,Guatemala,,,,,1,
+1992,Poland,,,,,,2
+1993,United States of America,1,2,1,1,,2
+1993,United Kingdom,1,,,1,,
+1993,South Africa,,,,,2,
+1994,Hungary,1,1,,,,
+1994,United States of America,,1,,2,,1
+1994,Germany (Poland),,1,,,,
+1994,Japan,,,1,,,
+1994,Egypt,,,,,1,
+1994,Poland (Belarus),,,,,1,
+1994,British Mandate of Palestine (Israel),,,,,1,
+1994,Canada,,,,,,1
+1995,Netherlands,1,,,,,
+1995,Mexico,1,,,,,
+1995,United States of America,1,1,,2,,2
+1995,Northern Ireland,,,1,,,
+1995,Germany,,,,1,,
+1995,Russian Empire (Poland),,,,,1,
+1995,,,,,,1,
+1996,United States of America,2,,,,,3
+1996,United Kingdom,1,,,,,
+1996,Scotland,,1,,,,
+1996,Canada,,1,,,,
+1996,Poland,,,1,,,
+1996,Australia,,,,1,,
+1996,Switzerland,,,,1,,
+1996,East Timor,,,,,2,
+1997,United States of America,1,1,,1,1,2
+1997,United Kingdom,1,,,,,
+1997,Denmark,1,,,,,
+1997,Canada,,1,,,,
+1997,Italy,,,1,,,
+1997,,,,,,1,
+1997,French Algeria (Algeria),,,,,,2
+1998,Austria,1,,,,,
+1998,United Kingdom,1,,,,,
+1998,India,,1,,,,
+1998,Portugal,,,1,,,
+1998,United States of America,,,,3,,1
+1998,Northern Ireland,,,,,2,
+1998,West Germany (Germany),,,,,,1
+1998,China,,,,,,1
+1999,Egypt,1,,,,,
+1999,Canada,,1,,,,
+1999,Free City of Danzig (Poland),,,1,,,
+1999,Germany (Poland),,,,2,,
+1999,,,,,,1,
+1999,Netherlands,,,,,,2
+2000,United States of America,1,2,,1,,1
+2000,New Zealand,1,,,,,
+2000,Japan,1,,,,,
+2000,China,,,1,,,
+2000,Sweden,,,,1,,
+2000,Austria,,,,1,,
+2000,Korea (South Korea),,,,,1,
+2000,Union of Soviet Socialist Republics (Belarus),,,,,,1
+2000,Germany,,,,,,1
+2001,United States of America,2,3,,1,,2
+2001,Japan,1,,,,,
+2001,Trinidad,,,1,,,
+2001,United Kingdom,,,,2,,
+2001,,,,,,1,
+2001,Gold Coast (Ghana),,,,,1,
+2001,West Germany (Germany),,,,,,1
+2002,United States of America,1,1,,1,1,1
+2002,Japan,1,,,,,1
+2002,Switzerland,2,,,,,
+2002,British Mandate of Palestine (Israel),,1,,,,
+2002,Hungary,,,1,,,
+2002,South Africa,,,,1,,
+2002,United Kingdom,,,,1,,
+2002,Italy,,,,,,1
+2003,United States of America,3,1,,1,,
+2003,United Kingdom,,1,,1,,1
+2003,South Africa,,,1,,,
+2003,Iran,,,,,1,
+2003,Union of Soviet Socialist Republics (Russia),,,,,,1
+2003,Russia,,,,,,1
+2004,British Protectorate of Palestine (Israel),1,,,,,
+2004,Hungary,1,,,,,
+2004,United States of America,1,2,,2,,3
+2004,Norway,,2,,,,
+2004,Austria,,,1,,,
+2004,Kenya,,,,,1,
+2005,Belgium,1,,,,,
+2005,United States of America,2,1,,,,3
+2005,Germany,,1,,,,2
+2005,United Kingdom,,,1,,,
+2005,Australia,,,,3,,
+2005,,,,,,1,
+2005,Egypt,,,,,1,
+2006,United States of America,1,1,,2,,2
+2006,Turkey,,,1,,,
+2006,British India (Bangladesh),,,,,1,
+2006,,,,,,1,
+2007,Germany,1,,,,,
+2007,Russia,,1,,,,
+2007,United States of America,,2,,,1,
+2007,Persia (Iran),,,1,,,
+2007,Italy,,,,2,,
+2007,United Kingdom,,,,2,,
+2007,,,,,,1,
+2007,France,,,,,,2
+2007,Czechoslovakia (Czech Republic),,,,,,1
+2008,Japan,2,,,,,4
+2008,United States of America,3,1,,,,
+2008,France,,,1,2,,
+2008,Germany,,,,1,,
+2008,Finland,,,,,1,
+2009,India,1,,,,,
+2009,United States of America,2,3,,1,1,1
+2009,British Mandate of Palestine (Israel),1,,,,,
+2009,Romania,,,1,,,
+2009,Australia,,,,1,,
+2009,United Kingdom,,,,3,,
+2009,China,,,,,,2
+2009,Canada,,,,,,1
+2010,United States of America,1,3,,,,
+2010,China,1,,,,1,
+2010,Japan,1,,,,,
+2010,Cyprus,,1,,,,
+2010,Peru,,,1,,,
+2010,United Kingdom,,,,1,,
+2010,Russia,,,,,,2
+2011,British Mandate of Palestine (Israel),1,,,,,
+2011,United States of America,,2,,2,,5
+2011,Sweden,,,1,,,
+2011,Luxembourg,,,,1,,
+2011,Canada,,,,1,,
+2011,Liberia,,,,,2,
+2011,Yemen,,,,,1,
+2012,United States of America,3,3,,,,2
+2012,China,,,1,,,
+2012,United Kingdom,,,,1,,
+2012,Japan,,,,2,,
+2012,,,,,,1,
+2012,Morocco,,,,,,2
+2013,Austria,2,,,,,
+2013,South Africa,1,,,,,
+2013,British Mandate of Palestine (Israel),1,,,,,
+2013,United States of America,,3,,3,,
+2013,Canada,,,1,,,
+2013,Germany,,,,2,,
+2013,,,,,,1,
+2013,Belgium,,,,,,1
+2013,United Kingdom,,,,,,1
+2014,United States of America,2,,,1,,
+2014,Romania,2,,,,,
+2014,France,,1,1,,,
+2014,Norway,,,,2,,
+2014,India,,,,,1,
+2014,Pakistan,,,,,1,
+2014,Japan,,,,,,4
+2015,Sweden,2,,,,,
+2015,United States of America,2,,,,,
+2015,Turkey,1,,,,,
+2015,United Kingdom,,1,,,,
+2015,Ukraine,,,1,,,
+2015,Ireland,,,,1,,
+2015,Japan,,,,1,,1
+2015,China,,,,1,,
+2015,,,,,,1,
+2015,Canada,,,,,,1
+2016,France,1,,,,,
+2016,United Kingdom,1,1,,,,3
+2016,Netherlands,1,,,,,
+2016,Finland,,1,,,,
+2016,United States of America,,,1,,,
+2016,Japan,,,,1,,
+2016,Colombia,,,,,1,
