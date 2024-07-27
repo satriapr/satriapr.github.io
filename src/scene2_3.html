@@ -1,0 +1,31 @@
+<!-- https://www.worldometers.info/gdp/gdp-by-country/#top gdp and population -->
+<!-- https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates nobel -->
+<!-- https://worldpopulationreview.com/country-rankings/smartest-countries average IQ-->
+<!-- https://data.worldbank.org/indicator/SE.TER.ENRR?most_recent_value_desc=true tertiary percentage-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scene Navigation</title>
+    <link rel="stylesheet" href="scene2_3_style.css">
+</head>
+<body>
+    <div id="scene2" class="scene active">
+        <div class="page-title">Do Countries with Higher IQ and Better Tertiary School Enrollment Win More Nobel Prizes?</div>
+        <div class="button-container">
+            <button id="prev-button" class="button spaced-button">&laquo; Previous Year Range</button>
+            <button id="home-button" class="button spaced-button">Home</button>
+            <button id="next-button" class="button spaced-button">Next Year Range &raquo;</button>
+        </div>
+        <div id="year-range" class="year-range">
+        </div>
+        <div id="chart-container">
+            <div id="narrative-container"></div>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

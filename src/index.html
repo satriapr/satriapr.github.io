@@ -1,26 +1,29 @@
-<!-- https://www.worldometers.info/gdp/gdp-by-country/#top gdp and population -->
-<!-- https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates nobel -->
-<!-- https://worldpopulationreview.com/country-rankings/smartest-countries average IQ-->
-<!-- https://data.worldbank.org/indicator/SE.TER.ENRR?most_recent_value_desc=true tertiary percentage-->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nobel Prize Winners and Education Indicators</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Scene 1: Nobel Prize, IQ, and Education</title>
+    <link rel="stylesheet" href="index_style.css">
 </head>
 <body>
-    <div class="page-title">Year Range Selector</div>
-    <div class="button-container">
-        <button id="prev-button" class="button">Previous</button>
-        <button id="next-button" class="button">Next</button>
+    <div id="scene1" class="scene active">
+        <div class="narrative-text">
+            <h2><strong>Do Countries with Higher IQ and Better Tertiary School Enrollment Win More Nobel Prizes?</strong></h2>
+            <p>Welcome to the interactive exploration of the <strong>relationship between Nobel Prize achievements, average IQ levels, and tertiary school enrollment rates</strong> across various countries.</p>
+            <p>This visualization provides an opportunity to explore how these factors have evolved over time, spanning from <strong>1901 to 2020</strong>. Utilize the timeline below to navigate through different decades and observe how trends develop.</p>
+            <p>Key features of this visualization include:</p>
+            <ul>
+                <li>A <strong>scatter plot</strong> illustrating the relationship between <strong>average IQ (x-axis) and tertiary school enrollment percentage (y-axis)</strong> for each country.</li>
+                <li>The <strong>size of each circle</strong> represents the <strong>number of Nobel Prizes</strong> won by that country within the selected time period.</li>
+                <li>A <strong>bar chart</strong> that showcases the <strong>cumulative number of Nobel Prizes</strong> each country has won up to the selected time period.</li>
+                <li><strong>Hover over any point or bar</strong> to view more detailed information, such as country-specific data.</li>
+            </ul>
+            <p>Use the navigation buttons below to see how the relationship between these factors has changed over time.</p>
+        </div>
+        <button id="go-to-scene2" class="wide-button">Explore Detailed Analysis</button>
     </div>
-    <div id="year-range" class="year-range">
-    </div>
-    <div id="narrative-container"></div>
-    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
