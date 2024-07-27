@@ -1,8 +1,10 @@
-## README for Nobel Prize, IQ, and Education Visualization
+## Nobel Prize, IQ, and Education Visualization
 
 ### Project Overview
 
 This project is an interactive narrative visualization that explores the correlation between a country's average IQ, tertiary school enrollment percentage, and its success in winning Nobel Prizes. The visualization aims to uncover patterns and trends that might indicate whether higher education and intelligence levels contribute significantly to global recognition through Nobel achievements. The data spans from 1901 to 2020, allowing users to explore these factors over more than a century.
+
+*This visualization was created as the final project for CS416: Data Visualization.*
 
 ### Structure of the Visualization
 
@@ -20,6 +22,10 @@ The project is divided into three main scenes:
 3. **Bar Chart View (Scene 3)**
    - Shows the cumulative number of Nobel Prizes won by each country over time.
    - Complements the scatterplot by providing a historical perspective on Nobel Prize achievements.
+
+### Screenshot
+
+![Visualization Screenshot](data/cs416_screenshot.png)
 
 ### Data Sources
 
