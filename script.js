@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (homeButton) {
         homeButton.addEventListener('click', () => {
-            window.location.href = '/src';
+            window.location.href = '/';
         });
     }
 
@@ -81,8 +81,15 @@ document.addEventListener('DOMContentLoaded', () => {
         let currentRangeIndex = 0;
 
         function updateButtons() {
-            nextButton.attr('disabled', currentRangeIndex >= yearRanges.length - 1 ? true : null);
-            prevButton.attr('disabled', currentRangeIndex <= 0 ? true : null);
+            nextButton
+                .attr('disabled', currentRangeIndex >= yearRanges.length - 1 ? true : null)
+                .style('opacity', currentRangeIndex >= yearRanges.length - 1 ? 0.5 : 1)
+                .style('cursor', currentRangeIndex >= yearRanges.length - 1 ? 'not-allowed' : 'pointer');
+            
+            prevButton
+                .attr('disabled', currentRangeIndex <= 0 ? true : null)
+                .style('opacity', currentRangeIndex <= 0 ? 0.5 : 1)
+                .style('cursor', currentRangeIndex <= 0 ? 'not-allowed' : 'pointer');
         }
 
         nextButton.on('click', () => {
@@ -381,7 +388,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const annotationPositions = {
                 highestNobel: { x: width * 0.7, y: 20 },
                 highestIq: { x: width * 0.85, y: 20 },
-                highestTertiary: { x: width * 0.5, y: 20 }
+                highestTertiary: { x: width * 0.4, y: 20 }
             };
 
             svg.append("text")
