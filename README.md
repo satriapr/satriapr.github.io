@@ -2,9 +2,10 @@
 
 ### Project Overview
 
+*This visualization was created as the final project for CS416: Data Visualization. Web Page: https://satriapr.github.io/*
+
 This project is an interactive narrative visualization that explores the correlation between a country's average IQ, tertiary school enrollment percentage, and its success in winning Nobel Prizes. The visualization aims to uncover patterns and trends that might indicate whether higher education and intelligence levels contribute significantly to global recognition through Nobel achievements. The data spans from 1901 to 2020, allowing users to explore these factors over more than a century.
 
-*This visualization was created as the final project for CS416: Data Visualization.*
 
 ### Structure of the Visualization
 
